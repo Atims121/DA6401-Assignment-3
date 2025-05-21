@@ -1,7 +1,6 @@
 # DA6401-Assignment-3
 
-Smita Pandey (CE21B121)
-wandb report link
+Smita Pandey (CE21B121) <br>
 [wandb report link](https://wandb.ai/ce21b121-iit-madras/DA6401-Assignment-3/reports/DA6401-Assignment-3--VmlldzoxMjg3NTI4MA?accessToken=wv7xnrqugbfe6ushdbpgfkf8w5c394l3rrrlv44jw6vppd3z4hexielykl4x3qvo)
 
 This repository has the code for a sequence to sequence model for transliteration from one script to another. The dataset used is dakshina dataset. The code for hyperparameter tuning is also included.
